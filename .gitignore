@@ -20,4 +20,4 @@ profiles.clj
 /.vscode
 /.clj-kondo
 
-
+*.db

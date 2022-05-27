@@ -4,7 +4,7 @@
   :url "http://example.com/FIXME"
 
   :dependencies [[clojure.java-time "0.3.3"]
-                 [com.h2database/h2 "1.4.200"]
+                 [com.h2database/h2 "2.1.212"]
                  [conman "0.9.3"]
                  [cprop "0.1.19"]
                  [expound "0.9.0"]
